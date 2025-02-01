@@ -1,4 +1,4 @@
-# Shooting method with the quad-tree technique
+# Shooting method with the quad-tree technique and simple OpenGL window
 
 ## Clone 
 ```
